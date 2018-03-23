@@ -1,12 +1,19 @@
 {
-    "name": "ux",
-    "displayName": "ux",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "rc-beautify",
+    "name": "quickapp-for-highlighter",
+    "displayName": "QuickApp For Highlighter",
+    "description": "QuickApp for Highlighter",
+    "version": "1.0.2",
+    "publisher": "Atom",
+    "icon": "img/logo.png",
     "engines": {
-        "vscode": "^1.21.0"
+        "vscode": "^0.10.5"
     },
+    "keywords": [
+        "quickapp",
+        "ux",
+        "Hap",
+        "Highlighter"
+    ],
     "categories": [
         "Languages"
     ],
