@@ -1,0 +1,29 @@
+{
+    "template": {
+        "prefix": "template",
+        "body": [
+            "<template>",
+            "\t$1",
+            "</template>"
+        ],
+        "description": "template element"
+    },
+    "script": {
+        "prefix": "script",
+        "body": [
+            "<script>",
+            "\t$1",
+            "</script>"
+        ],
+        "description": "script element"
+    },
+    "styleLang": {
+        "prefix": "styleLang",
+        "body": [
+            "<style>",
+            "\t$0",
+            "</style>"
+        ],
+        "description": "style element with lang attribute"
+    }
+}

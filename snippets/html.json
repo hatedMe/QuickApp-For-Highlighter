@@ -1,0 +1,9 @@
+{
+    "onclick": {
+        "prefix": "onclick",
+        "body": [
+            "onclick=\"${1:event}\""
+        ],
+        "description": "Event Binding"
+    }
+}
