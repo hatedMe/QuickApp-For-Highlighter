@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/hatedMe/QuickApp-For-Highlighter">
-        <img src="https://github.com/hatedMe/rc-beautify/raw/master/img/logo.png">
+        <img src="https://github.com/hatedMe/QuickApp-For-Highlighter/raw/master/img/logo.png">
     </a>
     <h1>一个基于vscode应用于‘快应用’语法高亮</h1>
     <div>
@@ -17,6 +17,6 @@
 </div>
 
 <div align="center">
-    <img src="https://github.com/hatedMe/rc-beautify/raw/master/img/test.png">
+    <img src="https://github.com/hatedMe/QuickApp-For-Highlighter/raw/master/img/test.png">
 </div>
 

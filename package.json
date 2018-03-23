@@ -2,7 +2,7 @@
     "name": "quickapp-for-highlighter",
     "displayName": "QuickApp For Highlighter",
     "description": "QuickApp for Highlighter",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "publisher": "Atom",
     "icon": "img/logo.png",
     "engines": {
